@@ -1,4 +1,3 @@
-Welcome to Zahra's Portfolio!
 
 Hey there! I'm a Project Manager with hands-on experience in data analytics. I love working with data—collecting, organizing, and analyzing it to help businesses make smarter decisions. I’m skilled in Python, R, SQL, Excel, Power BI, and Tableau, and I have a strong grasp of key data techniques like dashboard building, report writing, data mining, and statistical analysis.
 
